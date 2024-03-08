@@ -50,3 +50,5 @@ As imagens do exercício se encontram na pasta \demonstração.
 
 
 
+
+
